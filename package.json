@@ -2,7 +2,7 @@
   "name": "foodorder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amargielewski.github.io",
+  "homepage": "https://amargielewski.github.io/food-form",
   "dependencies": {
     "@hookform/resolvers": "2.8.8",
     "@testing-library/jest-dom": "^5.14.1",
