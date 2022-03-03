@@ -1,7 +1,7 @@
 import { apiService } from "services";
 import { Dish } from "types";
 
-const requestUrl = "/dishe";
+const requestUrl = "/dishes";
 
 export type RequestData = Dish;
 
