@@ -2,6 +2,8 @@
 
 ### Live preview:
 
+[https://amargielewski.github.io/food-form/](https://amargielewski.github.io/food-form/)
+
 ## Installation
 
 #### Node version: 16.13.2
